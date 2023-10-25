@@ -1,0 +1,315 @@
+1 --> DataArt Wroclaw
+2 --> OpsTalent
+3 --> nazwa.pl
+4 --> Super devs
+5 --> Opinov8
+6 --> Flightradar24
+7 --> Plentific
+8 --> ITDS Polska
+9 --> Sunscrapers
+10 --> Devopsbay
+11 --> Famoc
+12 --> Ringier Axel Springer Polska
+13 --> AVENGA
+14 --> Westwing
+15 --> BitNinja Technologies Zrt.
+16 --> Lingaro
+17 --> PeakData
+18 --> Omada
+19 --> Astek Polska
+20 --> Sii
+21 --> Sumo Logic
+22 --> Gemius
+23 --> Infermedica
+24 --> eREKRUTER IT
+25 --> Netguru
+26 --> Code Poets
+27 --> HR XPERIENCE GROUP
+28 --> Payability
+29 --> Vlog
+30 --> KLL Systemy Informatyczne
+31 --> PGS Software
+32 --> Egnyte
+33 --> Appliscale
+34 --> EMEA Systems
+35 --> Power Media
+36 --> ProData Consult
+37 --> AnywhereWorks
+38 --> DO OK
+39 --> Mobica Limited
+40 --> Synth
+41 --> Twill by MAERSK
+42 --> Omnipack
+43 --> People Trust
+44 --> New Signature
+45 --> Diverse CG
+46 --> ReCharge
+47 --> BRAINLY
+48 --> Instapage
+49 --> Scalac
+50 --> Cloudentity
+51 --> IHS Markit - Carfax
+52 --> Acaisoft
+53 --> Superdevs
+54 --> Grupa OLX
+55 --> JCommerce
+56 --> Mindspeller
+57 --> Owned Outcomes s.c.
+58 --> innogy Polska IT Support
+59 --> Dynatrace
+60 --> Recruitee
+61 --> Codility
+62 --> GetInData
+63 --> Global App Testing
+64 --> SMART-HR
+65 --> SoftServe
+66 --> Softserve
+67 --> CloudBest
+68 --> Sofomo
+69 --> ASTEK Polska
+70 --> CodiLime
+71 --> Tascent Inc.
+72 --> PayU
+73 --> Packhelp
+74 --> Retailic
+75 --> Semantive
+76 --> Codete
+77 --> Experis
+78 --> HubSpot
+79 --> Polcode
+80 --> Decathlon
+81 --> Grid Dynamics
+82 --> HTD Health
+83 --> Link Group
+84 --> Prodata Consult
+85 --> Security On-Demand
+86 --> X-Team
+87 --> Currenda
+88 --> Techstars
+89 --> VentureDevs
+90 --> GlobalLogic
+91 --> Synerise
+92 --> WLOG Solutions
+93 --> Alsoft
+94 --> Idego Group
+95 --> Merixstudio
+96 --> Straal
+97 --> Acaisoft Poland
+98 --> Clebre
+99 --> Akamai Technologies
+100 --> IHS Markit - CARFAX
+101 --> Branchspace
+102 --> Hypatos GmbH
+103 --> Form3
+104 --> Tango Agency
+105 --> Webinterpret
+106 --> TestArmy Group
+107 --> Iceretail
+108 --> Datumo
+109 --> SolDevelo
+110 --> Canonical
+111 --> Brainly
+112 --> IIIT
+113 --> 7N
+114 --> ODC group
+115 --> Adgroup.sh
+116 --> United Consult Kft
+117 --> Ework Group
+118 --> 3mdeb  Embedded Systems Consulting
+119 --> MUDITA
+120 --> Cloudstream Global
+121 --> Hiro
+122 --> Devire
+123 --> Fibertide
+124 --> DEVnet High Performance Solutions
+125 --> PPU Omega
+126 --> Catalogic Polska
+127 --> Neptune Labs
+128 --> IHS Markit - AutomotiveMastermind Team
+129 --> Linux Polska
+130 --> Vaimo Poland
+131 --> Sigma IT Polska
+132 --> RTB House
+133 --> SoftKraft134 --> Who Else Poland
+135 --> LPN PLANT
+136 --> Lionbridge Poland
+137 --> Boldare
+137 --> Tidio
+138 --> Evojam
+139 --> Marviq
+140 --> Aeolus Robotics, Inc
+141 --> Who Else Poland
+142 --> DevsData LLC
+143 --> YouGov Poland
+144 --> Avra
+145 --> Unity Group
+146 --> Talentica
+147 --> SoftKraft
+148 --> ALM Services Technology Group
+149 --> Avenga
+150 --> Engenious
+151 --> Andea Solutions
+152 --> Airspace Intelligence
+153 --> IHS Markit - Maritime&Trade
+154 --> Addepto
+155 --> IHS Markit - Advanced Analytics
+156 --> 10Clouds
+157 --> Ivy.ai
+158 --> IHS Markit -Advanced Analytics
+159 --> Billennium
+160 --> Mindbox
+161 --> Talent Hills
+162 --> DAC
+163 --> MIM Solutions
+164 --> AppUnite
+165 --> pTAG
+166 --> Sunscrapers Teams
+167 --> Luxoft
+168 --> Visual Data Media Services
+169 --> Provident Polska
+170 --> Super Devs
+171 --> DAC SA
+172 --> Unbuffered
+173 --> Intland
+174 --> Infopulse
+175 --> BlockFi
+176 --> NannyML
+177 --> Altimetrik
+178 --> PDC Logistics
+179 --> Silent Eight Pte. Ltd.
+180 --> Michael Page
+181 --> ACAISOFT POLAND
+182 --> Integree
+183 --> Ardigen
+184 --> Onwelo
+185 --> Ulam Labs
+186 --> Predica Consulting Services
+187 --> Booksy
+188 --> Motorola Solutions Systems Polska
+189 --> j-labs
+190 --> ZYTE
+191 --> Sii Polska
+192 --> Algomine
+193 --> Clearcode
+194 --> Red Sky
+195 --> Nexer Group
+196 --> Trineo
+197 --> Consult Red
+198 --> Tylko
+199 --> Promo.com
+200 --> Pentacomp Systemy Informatyczne
+201 --> Apptension
+202 --> Piwik PRO
+203 --> Falcon V Systems
+204 --> T-Mobile Polska S. A.
+205 --> Ringier Axel Springer Tech
+206 --> Intel
+207 --> Nest Bank
+208 --> Nokia
+209 --> TP Servglobal Ltd
+210 --> Accenture Advanced Technology Center Poland
+211 --> Nethone
+212 --> Makimo
+213 --> Commerzbank - Centrum Technologii Cyfrowych w Polsce
+214 --> Cyber Quant
+215 --> Transition Technologies PSC
+216 --> Luxoft Poland
+217 --> Semantive Cloud
+218 --> ING Bank Śląski
+219 --> Sigma IT Poland
+220 --> Arche Consulting
+221 --> F-Secure
+222 --> Cornerstone On Demand
+223 --> Hitachi ABB Power Grids
+224 --> Smartpatient Business Services
+225 --> VirtusLab
+226 --> Pergamin
+227 --> Neubloc Polska
+228 --> Whoohoo Poland
+229 --> Fortizar Kft.
+230 --> Narwhal Data Solutions
+231 --> INUITS
+232 --> NetActuate
+233 --> Cosmose
+234 --> CSHARK
+235 --> Avanade Poland
+236 --> Smartpatient
+237 --> re_data
+238 --> ALSOFT
+239 --> Deutsche Telekom IT Solutions HU
+240 --> Work Force Kft.
+241 --> Deviniti
+242 --> VlogIT
+243 --> ERGO Technology & Services
+244 --> Evident ID
+245 --> medcase Health
+246 --> NCDC
+247 --> Vewd Software Poland
+248 --> EXATEL
+249 --> Saleor Commerce
+250 --> Lerta
+251 --> Silent Eight
+252 --> Let's Talk Media Ltd
+253 --> co.brick
+254 --> Varwise
+255 --> Grupa Invicta
+256 --> Dash Hudson
+257 --> Codibly
+258 --> VIGO System
+259 --> Platige Image
+260 --> Jamf Software Poland
+261 --> QualityMinds
+262 --> FanServ
+263 --> relayr
+264 --> Booksy International
+265 --> Trax Retail
+266 --> Quantee
+267 --> Revdebug.com
+268 --> IDEMIA
+269 --> IndieBI
+270 --> apreel
+271 --> Sparkbit spółka z o.o.
+272 --> Onely
+273 --> Macopedia
+274 --> VOLT.IO Open Banking Payments
+275 --> 7bulls.com
+276 --> Brave
+277 --> Talenger
+278 --> Solwit SA
+279 --> DLabsAI
+280 --> Teams by Sunscrapers
+281 --> Dun&Bradstreet Polska (wcześniej Bisnode Polska
+282 --> Wunderman Thompson Technology
+283 --> Tivix Europe
+284 --> HR2go
+285 --> Kinesso
+286 --> ZYTLYN Technologies
+287 --> StreetBeat
+288 --> BlackSwan Technologies
+289 --> CrustLab
+290 --> Nielsen
+291 --> Britenet
+292 --> IHS Markit
+293 --> Tango
+294 --> Harvey Nash Technology
+295 --> Amsterdam Standard
+296 --> STX Next
+297 --> LAIT
+298 --> Codahead
+299 --> Jamf
+300 --> N7 Space
+301 --> Svitla Systems, Inc.
+302 --> TKH Technology Poland
+303 --> Grape Up
+304 --> Hoist Finance AB (oddział w Polsce)
+305 --> umlaut
+306 --> Happy Dogs NYC
+307 --> Heat Watch
+308 --> ITSG
+309 --> ONWELO SA
+310 --> Klika Tech
+311 --> Miinto
+312 --> User.com
+313 --> DataArt
+314 --> Emplocity
+315 --> EOS KSI Polska
